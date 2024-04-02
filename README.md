@@ -1,6 +1,7 @@
 # About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjab93&color=orange" alt="Arjab" /> </p>
 <h1 align="center">Hi there👋, I am Arjab Khadka. </h1>
+
 - 🎓 I’m a Learner.
 - 🌱 I’m currently learning: **ReactJS.**
 
